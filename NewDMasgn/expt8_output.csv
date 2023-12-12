@@ -1,0 +1,6 @@
+{ Cup Door } ,-> , {Egg } , 100
+{ Cup Egg } ,-> , {Door } , 66.6667
+{ Cup } ,-> , {Door Egg } , 50
+{ Door Egg } ,-> , {Cup } , 100
+{ Door } ,-> , {Cup Egg } , 66.6667
+{ Egg } ,-> , {Cup Door } , 66.6667

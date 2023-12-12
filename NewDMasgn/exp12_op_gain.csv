@@ -1,0 +1,9 @@
+Expected_Info ( Outlook|playGame ),0.693536
+Information_Gain ( Outlook|playGame ),0.24675
+Expected_Info ( Temp|playGame ),0.911063
+Information_Gain ( Temp|playGame ),0.0292226
+Expected_Info ( Humidity|playGame ),0.78845
+Information_Gain ( Humidity|playGame ),0.151836
+Expected_Info ( Wind|playGame ),0.892159
+Information_Gain ( Wind|playGame ),0.048127
+Subclass : Outlook has maximum gain . Hence it will be selected as root for splitting.

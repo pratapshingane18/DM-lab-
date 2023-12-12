@@ -1,0 +1,15 @@
+Day,Level,Study,Routine,Value
+1,High,Tech,No,false
+2,High,NonTech,No,false
+3,High,Tech,Yes,true
+4,High,Tech,Yes,true
+5,Normal,NonTech,Yes,true
+6,Normal,NonTech,No,false
+7,Normal,NonTech,Yes,true
+8,High,Tech,No,false
+9,Normal,Tech,Yes,true
+10,Normal,Tech,Yes,true
+11,Normal,NonTech,Yes,true
+12,High,NonTech,Yes,true
+13,Normal,Tech,Yes,true
+14,High,NonTech,No,false
